@@ -1,0 +1,5 @@
+name: PortalLink
+author: Flowsqy
+version: "${project.version}"
+main: fr.flowsqy.portallink.PortalLinkPlugin
+api-version: "1.13"

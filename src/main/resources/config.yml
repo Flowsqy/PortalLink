@@ -1,0 +1,12 @@
+#<from-world>:
+#  nether: <to-world>
+#  end: <to-world>
+#  disable-entities: false
+#
+#<from-world> The world where portals are
+#<to-world> The world where people are teleported when they enter a portal (Nether portal for 'nether' section and Ender portal for 'end' section)
+#'disable-entities' set if entities other than players can take the portal. If it's set to true, entities are not teleported.
+#
+#You can set as many <from-world> as you want
+#You can remove the section 'nether' if you only want to set end portals. Same for 'end' section and nether portals
+#The section 'disable-entities' is optional.
